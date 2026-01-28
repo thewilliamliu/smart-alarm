@@ -1,4 +1,4 @@
-# Smart Alarm ⏰
+# smart alarm
 
 Smart Alarm is a React Native app that calculates your wake-up time based on upcoming calendar events.
 
